@@ -1,0 +1,2234 @@
+2025-09-14 12:49:58 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:49:58 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:49:58 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Executing html_body_parser
+2025-09-14 12:49:59 - INFO - Executing headers_analizer
+2025-09-14 12:49:59 - INFO - Executing cookies_analizer
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:49:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:50:00 - ERROR - make_request() failed with exception: 
+2025-09-14 12:50:49 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:50:49 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:50:49 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Executing html_body_parser
+2025-09-14 12:50:49 - INFO - Executing headers_analizer
+2025-09-14 12:50:49 - INFO - Executing cookies_analizer
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:50:49 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:52:45 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:52:45 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:52:45 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Executing html_body_parser
+2025-09-14 12:52:46 - INFO - Executing headers_analizer
+2025-09-14 12:52:46 - INFO - Executing cookies_analizer
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:52:46 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:52:55 - ERROR - Failed fetch() with exception: Cannot connect to host softkitacademy.com:443 ssl:default [Connection reset by peer]
+2025-09-14 12:52:55 - ERROR - Failed fetch() with exception: Cannot connect to host softkitacademy.com:443 ssl:default [Connection reset by peer]
+2025-09-14 12:54:23 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:54:23 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:54:23 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Executing html_body_parser
+2025-09-14 12:54:23 - INFO - Executing headers_analizer
+2025-09-14 12:54:23 - INFO - Executing cookies_analizer
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:54:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:54:24 - INFO - Executing html_body_parser
+2025-09-14 12:54:24 - INFO - Executing headers_analizer
+2025-09-14 12:54:24 - INFO - Executing cookies_analizer
+2025-09-14 12:54:24 - INFO - Executing html_body_parser
+2025-09-14 12:54:24 - INFO - Executing headers_analizer
+2025-09-14 12:54:24 - INFO - Executing cookies_analizer
+2025-09-14 12:54:24 - INFO - Executing html_body_parser
+2025-09-14 12:54:24 - INFO - Executing headers_analizer
+2025-09-14 12:54:24 - INFO - Executing cookies_analizer
+2025-09-14 12:54:24 - INFO - Executing html_body_parser
+2025-09-14 12:54:24 - INFO - Executing headers_analizer
+2025-09-14 12:54:24 - INFO - Executing cookies_analizer
+2025-09-14 12:54:24 - INFO - Executing html_body_parser
+2025-09-14 12:54:24 - INFO - Executing headers_analizer
+2025-09-14 12:54:24 - INFO - Executing cookies_analizer
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:54:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:54:27 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:54:27 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:54:27 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Executing html_body_parser
+2025-09-14 12:54:27 - INFO - Executing headers_analizer
+2025-09-14 12:54:27 - INFO - Executing cookies_analizer
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:54:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:54:29 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:54:29 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:54:29 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Executing html_body_parser
+2025-09-14 12:54:31 - INFO - Executing headers_analizer
+2025-09-14 12:54:31 - INFO - Executing cookies_analizer
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:54:31 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:54:31 - ERROR - make_request() failed with exception: 
+2025-09-14 12:55:26 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:55:26 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:55:26 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:55:26 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 12:55:26 - INFO - Executing html_body_parser
+2025-09-14 12:55:26 - INFO - Executing headers_analizer
+2025-09-14 12:55:26 - INFO - Executing cookies_analizer
+2025-09-14 12:55:26 - INFO - Executing html_body_parser
+2025-09-14 12:55:26 - INFO - Executing headers_analizer
+2025-09-14 12:55:26 - INFO - Executing cookies_analizer
+2025-09-14 12:55:26 - INFO - Executing html_body_parser
+2025-09-14 12:55:26 - INFO - Executing headers_analizer
+2025-09-14 12:55:26 - INFO - Executing cookies_analizer
+2025-09-14 12:55:26 - INFO - Executing html_body_parser
+2025-09-14 12:55:26 - INFO - Executing headers_analizer
+2025-09-14 12:55:26 - INFO - Executing cookies_analizer
+2025-09-14 12:55:26 - INFO - Executing html_body_parser
+2025-09-14 12:55:26 - INFO - Executing headers_analizer
+2025-09-14 12:55:26 - INFO - Executing cookies_analizer
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:55:26 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:55:28 - ERROR - make_request() failed with exception: 
+2025-09-14 12:55:28 - ERROR - make_request() failed with exception: 
+2025-09-14 12:58:19 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:58:19 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:58:19 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:58:21 - ERROR - make_request() failed with exception: 
+2025-09-14 12:58:21 - ERROR - make_request() failed with exception: 
+2025-09-14 12:58:21 - ERROR - make_request() failed with exception: 
+2025-09-14 12:58:34 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:58:34 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:58:34 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:58:36 - ERROR - make_request() failed with exception: 
+2025-09-14 12:58:36 - ERROR - make_request() failed with exception: 
+2025-09-14 12:58:36 - ERROR - make_request() failed with exception: 
+2025-09-14 12:58:57 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:58:57 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:58:57 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Executing html_body_parser
+2025-09-14 12:58:57 - INFO - Executing headers_analizer
+2025-09-14 12:58:57 - INFO - Executing cookies_analizer
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:58:57 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:58:59 - INFO - Executing html_body_parser
+2025-09-14 12:58:59 - INFO - Executing headers_analizer
+2025-09-14 12:58:59 - INFO - Executing cookies_analizer
+2025-09-14 12:58:59 - INFO - Executing html_body_parser
+2025-09-14 12:58:59 - INFO - Executing headers_analizer
+2025-09-14 12:58:59 - INFO - Executing cookies_analizer
+2025-09-14 12:58:59 - INFO - Executing html_body_parser
+2025-09-14 12:58:59 - INFO - Executing headers_analizer
+2025-09-14 12:58:59 - INFO - Executing cookies_analizer
+2025-09-14 12:58:59 - INFO - Executing html_body_parser
+2025-09-14 12:58:59 - INFO - Executing headers_analizer
+2025-09-14 12:58:59 - INFO - Executing cookies_analizer
+2025-09-14 12:58:59 - INFO - Executing html_body_parser
+2025-09-14 12:58:59 - INFO - Executing headers_analizer
+2025-09-14 12:58:59 - INFO - Executing cookies_analizer
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:58:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:59:03 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:59:03 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:59:03 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:59:04 - INFO - Executing html_body_parser
+2025-09-14 12:59:04 - INFO - Executing headers_analizer
+2025-09-14 12:59:04 - INFO - Executing cookies_analizer
+2025-09-14 12:59:04 - INFO - Executing html_body_parser
+2025-09-14 12:59:04 - INFO - Executing headers_analizer
+2025-09-14 12:59:04 - INFO - Executing cookies_analizer
+2025-09-14 12:59:04 - INFO - Executing html_body_parser
+2025-09-14 12:59:04 - INFO - Executing headers_analizer
+2025-09-14 12:59:04 - INFO - Executing cookies_analizer
+2025-09-14 12:59:04 - INFO - Executing html_body_parser
+2025-09-14 12:59:04 - INFO - Executing headers_analizer
+2025-09-14 12:59:04 - INFO - Executing cookies_analizer
+2025-09-14 12:59:04 - INFO - Executing html_body_parser
+2025-09-14 12:59:04 - INFO - Executing headers_analizer
+2025-09-14 12:59:04 - INFO - Executing cookies_analizer
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:59:04 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Executing html_body_parser
+2025-09-14 12:59:05 - INFO - Executing headers_analizer
+2025-09-14 12:59:05 - INFO - Executing cookies_analizer
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:59:05 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:59:08 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:59:08 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:59:08 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Executing html_body_parser
+2025-09-14 12:59:09 - INFO - Executing headers_analizer
+2025-09-14 12:59:09 - INFO - Executing cookies_analizer
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:59:09 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:59:11 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:59:11 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:59:11 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Executing html_body_parser
+2025-09-14 12:59:11 - INFO - Executing headers_analizer
+2025-09-14 12:59:11 - INFO - Executing cookies_analizer
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:59:11 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:59:13 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:59:13 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:59:13 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:59:13 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Executing html_body_parser
+2025-09-14 12:59:13 - INFO - Executing headers_analizer
+2025-09-14 12:59:13 - INFO - Executing cookies_analizer
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:59:13 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:59:14 - INFO - Executing html_body_parser
+2025-09-14 12:59:14 - INFO - Executing headers_analizer
+2025-09-14 12:59:14 - INFO - Executing cookies_analizer
+2025-09-14 12:59:14 - INFO - Executing html_body_parser
+2025-09-14 12:59:14 - INFO - Executing headers_analizer
+2025-09-14 12:59:14 - INFO - Executing cookies_analizer
+2025-09-14 12:59:14 - INFO - Executing html_body_parser
+2025-09-14 12:59:14 - INFO - Executing headers_analizer
+2025-09-14 12:59:14 - INFO - Executing cookies_analizer
+2025-09-14 12:59:14 - INFO - Executing html_body_parser
+2025-09-14 12:59:14 - INFO - Executing headers_analizer
+2025-09-14 12:59:14 - INFO - Executing cookies_analizer
+2025-09-14 12:59:14 - INFO - Executing html_body_parser
+2025-09-14 12:59:14 - INFO - Executing headers_analizer
+2025-09-14 12:59:14 - INFO - Executing cookies_analizer
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:59:14 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:59:15 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:59:15 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:59:15 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:59:15 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Executing html_body_parser
+2025-09-14 12:59:15 - INFO - Executing headers_analizer
+2025-09-14 12:59:15 - INFO - Executing cookies_analizer
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:59:15 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:59:16 - INFO - Executing html_body_parser
+2025-09-14 12:59:16 - INFO - Executing headers_analizer
+2025-09-14 12:59:16 - INFO - Executing cookies_analizer
+2025-09-14 12:59:16 - INFO - Executing html_body_parser
+2025-09-14 12:59:16 - INFO - Executing headers_analizer
+2025-09-14 12:59:16 - INFO - Executing cookies_analizer
+2025-09-14 12:59:16 - INFO - Executing html_body_parser
+2025-09-14 12:59:16 - INFO - Executing headers_analizer
+2025-09-14 12:59:16 - INFO - Executing cookies_analizer
+2025-09-14 12:59:16 - INFO - Executing html_body_parser
+2025-09-14 12:59:16 - INFO - Executing headers_analizer
+2025-09-14 12:59:16 - INFO - Executing cookies_analizer
+2025-09-14 12:59:16 - INFO - Executing html_body_parser
+2025-09-14 12:59:16 - INFO - Executing headers_analizer
+2025-09-14 12:59:16 - INFO - Executing cookies_analizer
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:59:16 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:59:17 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:59:17 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:59:17 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:59:17 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Executing html_body_parser
+2025-09-14 12:59:17 - INFO - Executing headers_analizer
+2025-09-14 12:59:17 - INFO - Executing cookies_analizer
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:59:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:59:18 - INFO - Executing html_body_parser
+2025-09-14 12:59:18 - INFO - Executing headers_analizer
+2025-09-14 12:59:18 - INFO - Executing cookies_analizer
+2025-09-14 12:59:18 - INFO - Executing html_body_parser
+2025-09-14 12:59:18 - INFO - Executing headers_analizer
+2025-09-14 12:59:18 - INFO - Executing cookies_analizer
+2025-09-14 12:59:18 - INFO - Executing html_body_parser
+2025-09-14 12:59:18 - INFO - Executing headers_analizer
+2025-09-14 12:59:18 - INFO - Executing cookies_analizer
+2025-09-14 12:59:18 - INFO - Executing html_body_parser
+2025-09-14 12:59:18 - INFO - Executing headers_analizer
+2025-09-14 12:59:18 - INFO - Executing cookies_analizer
+2025-09-14 12:59:18 - INFO - Executing html_body_parser
+2025-09-14 12:59:18 - INFO - Executing headers_analizer
+2025-09-14 12:59:18 - INFO - Executing cookies_analizer
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:59:18 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 12:59:49 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 12:59:49 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 12:59:49 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Executing html_body_parser
+2025-09-14 12:59:49 - INFO - Executing headers_analizer
+2025-09-14 12:59:49 - INFO - Executing cookies_analizer
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 12:59:49 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 12:59:50 - INFO - Executing html_body_parser
+2025-09-14 12:59:50 - INFO - Executing headers_analizer
+2025-09-14 12:59:50 - INFO - Executing cookies_analizer
+2025-09-14 12:59:50 - INFO - Executing html_body_parser
+2025-09-14 12:59:50 - INFO - Executing headers_analizer
+2025-09-14 12:59:50 - INFO - Executing cookies_analizer
+2025-09-14 12:59:50 - INFO - Executing html_body_parser
+2025-09-14 12:59:50 - INFO - Executing headers_analizer
+2025-09-14 12:59:50 - INFO - Executing cookies_analizer
+2025-09-14 12:59:50 - INFO - Executing html_body_parser
+2025-09-14 12:59:50 - INFO - Executing headers_analizer
+2025-09-14 12:59:50 - INFO - Executing cookies_analizer
+2025-09-14 12:59:50 - INFO - Executing html_body_parser
+2025-09-14 12:59:50 - INFO - Executing headers_analizer
+2025-09-14 12:59:50 - INFO - Executing cookies_analizer
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 12:59:50 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:00:04 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:00:04 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:00:04 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Executing html_body_parser
+2025-09-14 13:00:05 - INFO - Executing headers_analizer
+2025-09-14 13:00:05 - INFO - Executing cookies_analizer
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:00:05 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:00:08 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:00:08 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:00:08 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Executing html_body_parser
+2025-09-14 13:00:08 - INFO - Executing headers_analizer
+2025-09-14 13:00:08 - INFO - Executing cookies_analizer
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:00:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:00:17 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:00:17 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:00:17 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:00:17 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Executing html_body_parser
+2025-09-14 13:00:17 - INFO - Executing headers_analizer
+2025-09-14 13:00:17 - INFO - Executing cookies_analizer
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:00:17 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:00:19 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:00:19 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:00:19 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:00:19 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Executing html_body_parser
+2025-09-14 13:00:20 - INFO - Executing headers_analizer
+2025-09-14 13:00:20 - INFO - Executing cookies_analizer
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:00:20 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:00:22 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:00:22 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:00:22 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:00:22 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Executing html_body_parser
+2025-09-14 13:00:22 - INFO - Executing headers_analizer
+2025-09-14 13:00:22 - INFO - Executing cookies_analizer
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:00:22 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:00:23 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:00:23 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:00:23 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:00:24 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Executing html_body_parser
+2025-09-14 13:00:24 - INFO - Executing headers_analizer
+2025-09-14 13:00:24 - INFO - Executing cookies_analizer
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:00:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:00:55 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:00:55 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:00:55 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:00:55 - ERROR - make_request() failed with exception: 
+2025-09-14 13:00:55 - ERROR - make_request() failed with exception: 
+2025-09-14 13:00:55 - ERROR - make_request() failed with exception: 
+2025-09-14 13:01:06 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:01:06 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:01:06 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:01:06 - ERROR - make_request() failed with exception: 
+2025-09-14 13:01:06 - ERROR - make_request() failed with exception: 
+2025-09-14 13:01:06 - ERROR - make_request() failed with exception: 
+2025-09-14 13:01:22 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:01:22 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:01:22 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:01:22 - ERROR - make_request() failed with exception: 
+2025-09-14 13:01:22 - ERROR - make_request() failed with exception: 
+2025-09-14 13:01:22 - ERROR - make_request() failed with exception: 
+2025-09-14 13:02:22 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:02:22 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:02:22 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:02:22 - ERROR - make_request() failed with exception: 
+2025-09-14 13:02:22 - ERROR - make_request() failed with exception: 
+2025-09-14 13:02:22 - ERROR - make_request() failed with exception: 
+2025-09-14 13:05:39 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:05:39 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:05:39 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:05:39 - ERROR - make_request() failed with exception: 
+2025-09-14 13:05:39 - ERROR - make_request() failed with exception: 
+2025-09-14 13:05:39 - ERROR - make_request() failed with exception: 
+2025-09-14 13:05:43 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:05:43 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:05:43 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:05:43 - ERROR - make_request() failed with exception: 
+2025-09-14 13:05:43 - ERROR - make_request() failed with exception: 
+2025-09-14 13:05:43 - ERROR - make_request() failed with exception: 
+2025-09-14 13:06:55 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:06:55 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:06:55 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:06:55 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Executing html_body_parser
+2025-09-14 13:06:55 - INFO - Executing headers_analizer
+2025-09-14 13:06:55 - INFO - Executing cookies_analizer
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:06:55 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:12:23 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:12:23 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:12:23 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Executing html_body_parser
+2025-09-14 13:12:23 - INFO - Executing headers_analizer
+2025-09-14 13:12:23 - INFO - Executing cookies_analizer
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:12:23 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:12:24 - INFO - Executing html_body_parser
+2025-09-14 13:12:24 - INFO - Executing headers_analizer
+2025-09-14 13:12:24 - INFO - Executing cookies_analizer
+2025-09-14 13:12:24 - INFO - Executing html_body_parser
+2025-09-14 13:12:24 - INFO - Executing headers_analizer
+2025-09-14 13:12:24 - INFO - Executing cookies_analizer
+2025-09-14 13:12:24 - INFO - Executing html_body_parser
+2025-09-14 13:12:24 - INFO - Executing headers_analizer
+2025-09-14 13:12:24 - INFO - Executing cookies_analizer
+2025-09-14 13:12:24 - INFO - Executing html_body_parser
+2025-09-14 13:12:24 - INFO - Executing headers_analizer
+2025-09-14 13:12:24 - INFO - Executing cookies_analizer
+2025-09-14 13:12:24 - INFO - Executing html_body_parser
+2025-09-14 13:12:24 - INFO - Executing headers_analizer
+2025-09-14 13:12:24 - INFO - Executing cookies_analizer
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:12:24 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-14 13:12:35 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:12:35 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:12:35 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:12:35 - ERROR - make_request() failed with exception: 
+2025-09-14 13:12:35 - ERROR - make_request() failed with exception: 
+2025-09-14 13:12:35 - ERROR - make_request() failed with exception: 
+2025-09-14 13:12:52 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:12:52 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:12:52 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:12:52 - ERROR - make_request() failed with exception: 
+2025-09-14 13:12:52 - ERROR - make_request() failed with exception: 
+2025-09-14 13:12:52 - ERROR - make_request() failed with exception: 
+2025-09-14 13:13:04 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:13:04 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:13:04 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:13:04 - ERROR - make_request() failed with exception: 
+2025-09-14 13:13:04 - ERROR - make_request() failed with exception: 
+2025-09-14 13:13:04 - ERROR - make_request() failed with exception: 
+2025-09-14 13:13:50 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:13:50 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:13:50 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:13:50 - ERROR - make_request() failed with exception: 
+2025-09-14 13:13:50 - ERROR - make_request() failed with exception: 
+2025-09-14 13:13:50 - ERROR - make_request() failed with exception: 
+2025-09-14 13:14:03 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-14 13:14:03 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-14 13:14:03 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Executing html_body_parser
+2025-09-14 13:14:03 - INFO - Executing headers_analizer
+2025-09-14 13:14:03 - INFO - Executing cookies_analizer
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-14 13:14:03 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-17 15:40:44 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-17 15:40:44 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-17 15:40:44 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Executing html_body_parser
+2025-09-17 15:40:44 - INFO - Executing headers_analizer
+2025-09-17 15:40:44 - INFO - Executing cookies_analizer
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-17 15:40:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-17 15:40:45 - INFO - Executing html_body_parser
+2025-09-17 15:40:45 - INFO - Executing headers_analizer
+2025-09-17 15:40:45 - INFO - Executing cookies_analizer
+2025-09-17 15:40:45 - INFO - Executing html_body_parser
+2025-09-17 15:40:45 - INFO - Executing headers_analizer
+2025-09-17 15:40:45 - INFO - Executing cookies_analizer
+2025-09-17 15:40:45 - INFO - Executing html_body_parser
+2025-09-17 15:40:45 - INFO - Executing headers_analizer
+2025-09-17 15:40:45 - INFO - Executing cookies_analizer
+2025-09-17 15:40:45 - INFO - Executing html_body_parser
+2025-09-17 15:40:45 - INFO - Executing headers_analizer
+2025-09-17 15:40:45 - INFO - Executing cookies_analizer
+2025-09-17 15:40:45 - INFO - Executing html_body_parser
+2025-09-17 15:40:45 - INFO - Executing headers_analizer
+2025-09-17 15:40:45 - INFO - Executing cookies_analizer
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-17 15:40:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-17 15:41:58 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-17 15:41:58 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-17 15:41:58 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Executing html_body_parser
+2025-09-17 15:41:59 - INFO - Executing headers_analizer
+2025-09-17 15:41:59 - INFO - Executing cookies_analizer
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-17 15:41:59 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-17 15:42:29 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-17 15:42:29 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-17 15:42:29 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Executing html_body_parser
+2025-09-17 15:42:30 - INFO - Executing headers_analizer
+2025-09-17 15:42:30 - INFO - Executing cookies_analizer
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-17 15:42:30 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-17 15:42:44 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-17 15:42:44 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-17 15:42:44 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-17 15:42:44 - INFO - Executing html_body_parser
+2025-09-17 15:42:44 - INFO - Executing headers_analizer
+2025-09-17 15:42:44 - INFO - Executing cookies_analizer
+2025-09-17 15:42:44 - INFO - Executing html_body_parser
+2025-09-17 15:42:44 - INFO - Executing headers_analizer
+2025-09-17 15:42:44 - INFO - Executing cookies_analizer
+2025-09-17 15:42:44 - INFO - Executing html_body_parser
+2025-09-17 15:42:44 - INFO - Executing headers_analizer
+2025-09-17 15:42:44 - INFO - Executing cookies_analizer
+2025-09-17 15:42:44 - INFO - Executing html_body_parser
+2025-09-17 15:42:44 - INFO - Executing headers_analizer
+2025-09-17 15:42:44 - INFO - Executing cookies_analizer
+2025-09-17 15:42:44 - INFO - Executing html_body_parser
+2025-09-17 15:42:44 - INFO - Executing headers_analizer
+2025-09-17 15:42:44 - INFO - Executing cookies_analizer
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-17 15:42:44 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-17 15:42:45 - INFO - Executing html_body_parser
+2025-09-17 15:42:45 - INFO - Executing headers_analizer
+2025-09-17 15:42:45 - INFO - Executing cookies_analizer
+2025-09-17 15:42:45 - INFO - Executing html_body_parser
+2025-09-17 15:42:45 - INFO - Executing headers_analizer
+2025-09-17 15:42:45 - INFO - Executing cookies_analizer
+2025-09-17 15:42:45 - INFO - Executing html_body_parser
+2025-09-17 15:42:45 - INFO - Executing headers_analizer
+2025-09-17 15:42:45 - INFO - Executing cookies_analizer
+2025-09-17 15:42:45 - INFO - Executing html_body_parser
+2025-09-17 15:42:45 - INFO - Executing headers_analizer
+2025-09-17 15:42:45 - INFO - Executing cookies_analizer
+2025-09-17 15:42:45 - INFO - Executing html_body_parser
+2025-09-17 15:42:45 - INFO - Executing headers_analizer
+2025-09-17 15:42:45 - INFO - Executing cookies_analizer
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-17 15:42:45 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-17 15:42:46 - ERROR - make_request() failed with exception: 
+2025-09-17 15:43:18 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-17 15:43:18 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-17 15:43:18 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-17 15:43:18 - ERROR - make_request() failed with 403 code in https://softkitacademy.com
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Executing html_body_parser
+2025-09-17 15:43:18 - INFO - Executing headers_analizer
+2025-09-17 15:43:18 - INFO - Executing cookies_analizer
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-17 15:43:18 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-17 15:43:20 - ERROR - make_request() failed with exception: 
+2025-09-19 09:13:07 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-19 09:13:07 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-19 09:13:07 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Executing html_body_parser
+2025-09-19 09:13:08 - INFO - Executing headers_analizer
+2025-09-19 09:13:08 - INFO - Executing cookies_analizer
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-19 09:13:08 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-19 09:13:09 - ERROR - make_request() failed with exception: 
+2025-09-19 09:18:26 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-19 09:18:26 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-19 09:18:26 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Executing html_body_parser
+2025-09-19 09:18:27 - INFO - Executing headers_analizer
+2025-09-19 09:18:27 - INFO - Executing cookies_analizer
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-19 09:18:27 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
+2025-09-19 09:18:31 - INFO - Starting make_request() in domain https://blog.mozilla.org/en
+2025-09-19 09:18:31 - INFO - Starting make_request() in domain https://softkitacademy.com
+2025-09-19 09:18:31 - INFO - Starting make_request() in domain https://hiutdenim.co.uk
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/wp-json/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/collections/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/products/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/cart
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/index.php?option=
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/component/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://softkitacademy.com/_wix
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/wp-json/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/collections/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/products/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/cart
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/index.php?option=
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/component/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://hiutdenim.co.uk/_wix
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Executing html_body_parser
+2025-09-19 09:18:32 - INFO - Executing headers_analizer
+2025-09-19 09:18:32 - INFO - Executing cookies_analizer
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/wp-json/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/collections/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/products/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/cart
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/index.php?option=
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/component/
+2025-09-19 09:18:32 - INFO - Starting fetc() in domain https://blog.mozilla.org/en/_wix
